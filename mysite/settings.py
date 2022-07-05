@@ -111,7 +111,7 @@ TIME_ZONE = 'America/Sao_Paulo'
 USE_I18N = True
 
 USE_TZ = True
-STATIC_ROOT = BASE_DIR, 'static'
+STATIC_ROOT = BASE_DIR/'static'
 
 
 # Static files (CSS, JavaScript, Images)
